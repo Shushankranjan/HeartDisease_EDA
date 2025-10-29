@@ -70,7 +70,7 @@ The analysis helps identify important clinical indicators that may predict heart
 ## 🙋‍♂️ Author
 
 **Jaiveer Singh Sahni**  
-📬 [GitHub Profile](https://github.com/JaiveerSahni)
+📬 [GitHub Profile](https://github.com/Shushankranjan)
 
 ---
 
